@@ -15,7 +15,9 @@ def builidng_hasketball
         :blocks => 1,
         :slam_dunks => 1
       },
-          
+      {
+        
+      }    
           ]
     },
     :away => {}
